@@ -1,0 +1,198 @@
+[
+  {
+    "Index": 1,
+    "Question": "What is the capital of India?",
+    "Topic": "Geography",
+    "Sub-Topic": "Capital Cities"
+  },
+  {
+    "Index": 2,
+    "Question": "What is a neural network?",
+    "Topic": "Computer Science",
+    "Sub-Topic": "Neural Networks"
+  },
+  {
+    "Index": 3,
+    "Question": "What is 2x + 4 = 6?",
+    "Topic": "Mathematics",
+    "Sub-Topic": "Algebra"
+  },
+  {
+    "Index": 4,
+    "Question": "What is the area of a circle?",
+    "Topic": "Mathematics",
+    "Sub-Topic": "Geometry"
+  },
+  {
+    "Index": 5,
+    "Question": "What is supervised learning?",
+    "Topic": "Computer Science",
+    "Sub-Topic": "Machine Learning"
+  },
+  {
+    "Index": 6,
+    "Question": "What is the capital of France?"
+  },
+  {
+    "Index": 7,
+    "Question": "How does a neural network work?"
+  },
+  {
+    "Index": 8,
+    "Question": "What is the Pythagorean theorem?"
+  },
+  {
+    "Index": 9,
+    "Question": "What is the capital of Germany?"
+  },
+  {
+    "Index": 10,
+    "Question": "How do you train a deep learning model?"
+  },
+  {
+    "Index": 11,
+    "Question": "What is the quadratic formula?"
+  },
+  {
+    "Index": 12,
+    "Question": "What is the capital of Spain?"
+  },
+  {
+    "Index": 13,
+    "Question": "What is backpropagation in neural networks?"
+  },
+  {
+    "Index": 14,
+    "Question": "What is the formula for the area of a circle?"
+  },
+  {
+    "Index": 15,
+    "Question": "What is a convolutional neural network?"
+  },
+  {
+    "Index": 16,
+    "Question": "What is the formula for the volume of a sphere?"
+  },
+  {
+    "Index": 17,
+    "Question": "How do you optimize a machine learning model?"
+  },
+  {
+    "Index": 18,
+    "Question": "What is the derivative of a function?"
+  },
+  {
+    "Index": 19,
+    "Question": "What is a decision tree in machine learning?"
+  },
+  {
+    "Index": 20,
+    "Question": "What is a matrix in mathematics?"
+  },
+  {
+    "Index": 21,
+    "Question": "What is the capital of Italy?"
+  },
+  {
+    "Index": 22,
+    "Question": "What is gradient descent?"
+  },
+  {
+    "Index": 23,
+    "Question": "What is the difference between supervised and unsupervised learning?"
+  },
+  {
+    "Index": 24,
+    "Question": "What is a neural network’s activation function?"
+  },
+  {
+    "Index": 25,
+    "Question": "What is the capital of Canada?"
+  },
+  {
+    "Index": 26,
+    "Question": "What is the difference between regression and classification?"
+  },
+  {
+    "Index": 27,
+    "Question": "What is the value of x in 2x + 3 = 5?"
+  },
+  {
+    "Index": 28,
+    "Question": "What is the integral of sin(x)?"
+  },
+  {
+    "Index": 29,
+    "Question": "What is the derivative of cos(x)?"
+  },
+  {
+    "Index": 30,
+    "Question": "What is the quadratic equation?"
+  },
+  {
+    "Index": 31,
+    "Question": "What is the area of a triangle?"
+  },
+  {
+    "Index": 32,
+    "Question": "What is the formula for the volume of a cone?"
+  },
+  {
+    "Index": 33,
+    "Question": "What is the Pythagorean theorem used for?"
+  },
+  {
+    "Index": 34,
+    "Question": "What is the difference between differentiation and integration?"
+  },
+  {
+    "Index": 35,
+    "Question": "What is the derivative of x^2?"
+  },
+  {
+    "Index": 36,
+    "Question": "What is the formula for the surface area of a sphere?"
+  },
+  {
+    "Index": 37,
+    "Question": "What is the integral of cos(x)?"
+  },
+  {
+    "Index": 38,
+    "Question": "What is the capital of Japan?"
+  },
+  {
+    "Index": 39,
+    "Question": "What is the area of a square?"
+  },
+  {
+    "Index": 40,
+    "Question": "What is a decision tree in machine learning?"
+  },
+  {
+    "Index": 41,
+    "Question": "What are the applications of deep learning?"
+  },
+  {
+    "Index": 42,
+    "Question": "What are the fundamental components of a neural network?"
+  },
+  {
+    "Index": 43,
+    "Question": "What is the chain rule in calculus?"
+  },
+  {
+    "Index": 44,
+    "Question": "How does machine learning differ from deep learning?",
+    "Topic": "Computer Science",
+    "Sub-Topic": "Machine Learning"
+  },
+  {
+    "Index": 45,
+    "Question": "In what areas is deep learning applied?"
+  },
+  {
+    "Index": 46,
+    "Question": "What are some real-world uses of deep learning?"
+  }
+]
